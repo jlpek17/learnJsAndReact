@@ -1,0 +1,33 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+# local env files
+.env
+.env.*
+
+# logs
+npm-debug.log*
+
+# editor directories and files
+.vscode
+.idea
+.DS_Store
+/node_modules
+
+# production
+/dist
+
+# local env files
+.env
+.env.*
+
+# logs
+npm-debug.log*
+
+# editor directories and files
+.vscode
+.idea
+.DS_Store
