@@ -1,11 +1,9 @@
-
-## À propos de l'installation de React
-
-> React est automatiquement installé avec Next.js. Les dépendances `react` et `react-dom` sont ajoutées lors de l'initialisation du projet avec `npx create-next-app@latest .`. Vous pouvez les retrouver dans le fichier `package.json`.
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with :
 
 ```bash
+git clone git@github.com:jlpek17/learnJsAndReact.git
+echo "# learnJsAndReact" > README.md
+
 npx create-next-app@latest .
 ```
 
