@@ -19,6 +19,20 @@ npx create-next-app@latest .
 
 ## Getting Started
 
+Check node version and nstall nodeversion files :
+```bash
+fnm ls
+```
+
+Install the dependencies:
+
+```bash
+npm cache clean --force
+npm install --registry=https://registry.npmjs.org/ --verbose
+or
+npm update --registry=https://registry.npmjs.org/ --verbose
+```
+
 First, run the development server:
 
 ```bash
